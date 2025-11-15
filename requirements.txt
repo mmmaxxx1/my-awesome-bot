@@ -1,0 +1,6 @@
+pyTelegramBotAPI
+google-generativeai
+Pillow
+Flask
+requests
+waitress
